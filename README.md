@@ -28,6 +28,10 @@ This project analyzes NYC 311 data related to animal abuse complaints. It uses p
 - Correlation with shelter capacity or rescue response
 - Predictive analytics for resource planning
 
+## Heat Map
+-👉 [View Heatmap](animal_abuse_heatmap.html)
+
+
 ## 📫 Contact
 Syed Rayyan Ahmed  
 [LinkedIn](https://www.linkedin.com/in/syed-rayyan-ahmed/)  
