@@ -30,4 +30,4 @@ This project analyzes NYC 311 data related to animal abuse complaints. It uses p
 
 ## 📫 Contact
 Syed Rayyan Ahmed  
-[LinkedIn](https://linkedin.com/in/syedrayyanahmed)  
+[LinkedIn](https://www.linkedin.com/in/syed-rayyan-ahmed/)  
